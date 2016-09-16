@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 var path = require('path')
+=======
+var path = require('path');
+>>>>>>> AngularClass/master
 var webpack = require('webpack');
 
 var config = {
